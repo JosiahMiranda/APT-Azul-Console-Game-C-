@@ -1,0 +1,217 @@
+4
+2
+joe
+moe
+toe
+loe
+46
+45
+63
+53
+toe
+F 
+F 
+R R L L 
+U U L L 
+L L B B 
+Y Y Y Y 
+B Y Y R 
+R U U U 
+
+
+
+b Y r U L 
+L B Y R u 
+U L b Y R 
+R U L b y 
+y r u L b 
+B Y R u L 
+l B Y R U 
+U l B y R 
+r U l b Y 
+Y r u l B 
+B Y R U L 
+L B Y R U 
+U L B Y R 
+R u L b y 
+y r u l B 
+B Y R U L 
+l B Y R U 
+U L b Y R 
+r U L B y 
+Y r u l b 
+. 
+U . 
+. . . 
+B B B . 
+. . . . . 
+. 
+L . 
+. . . 
+B B . . 
+. . . . . 
+. 
+. . 
+. . . 
+U . . . 
+. . . . . 
+. 
+. . 
+. . . 
+. . . . 
+R R R . . 
+
+
+
+
+
+
+22234
+F 
+F 
+U R U Y 
+L B Y Y 
+L Y R R 
+Y L L B 
+B U Y Y 
+Y L B B 
+L R R Y 
+R U U L 
+R B U Y 
+R U L Y B R B U L R L R B U Y Y Y Y L L U R L B R L L U U L U U U R B B R Y R R B L L B B U Y Y U U U R B R B L Y Y R B B B L U 
+turn 6 Y 2
+0
+turn 3 Y 2
+1
+turn 9 U 2
+0
+turn 2 U 2
+1
+turn 10 Y 1
+0
+turn 8 Y 1
+1
+turn 1 R 3
+turn 5 B 1
+1
+turn 1 L 4
+turn 4 R 3
+1
+turn 1 B 1
+turn 1 Y 3
+turn 0 R 3
+turn 0 U 4
+turn 7 L 4
+1
+turn 1 L 4
+turn 0 L 5
+turn 1 B 5
+turn 0 B 5
+turn 1 Y 5
+turn 9 U 3
+0
+turn 10 B 2
+1
+turn 8 R 3
+0
+turn 7 R 3
+1
+turn 0 L 4
+turn 2 L 1
+0
+turn 6 L 2
+0
+turn 1 U 4
+turn 5 Y 2
+1
+turn 4 L 4
+1
+turn 3 U 1
+0
+turn 0 R 2
+turn 1 U 1
+turn 1 L 4
+turn 1 R 4
+turn 1 B 5
+turn 0 B 5
+turn 0 Y 5
+turn 0 U B
+turn 7 B 5
+0
+turn 10 Y 5
+1
+turn 6 R 4
+0
+turn 4 B 5
+1
+turn 9 L 3
+0
+turn 5 U 3
+1
+turn 0 Y 3
+turn 1 U 2
+turn 3 L 2
+0
+turn 0 B 4
+turn 8 B 2
+0
+turn 0 R 1
+turn 2 Y 1
+0
+turn 1 Y 2
+turn 0 L 5
+turn 0 U 3
+turn 1 R 4
+turn 0 R 1
+turn 7 L 3
+0
+turn 3 U 3
+1
+turn 8 R 4
+0
+turn 6 L 3
+1
+turn 9 R 2
+1
+turn 0 B 2
+turn 10 B 3
+0
+turn 1 R 2
+turn 2 L 1
+0
+turn 0 Y 4
+turn 0 L 1
+turn 4 U 1
+0
+turn 5 U 4
+1
+turn 1 B 1
+turn 0 R 2
+turn 1 U 4
+turn 0 U 4
+turn 1 Y 5
+turn 5 Y 5
+turn 3 B 2
+0
+turn 8 U 4
+1
+turn 2 L 5
+0
+turn 4 B 3
+1
+turn 9 R 1
+1
+turn 10 R 3
+0
+turn 7 U 3
+0
+turn 6 L 1
+0
+turn 1 Y 3
+turn 0 Y 1
+turn 1 U 2
+turn 0 L 2
+turn 0 U 4
+turn 0 R 5
+turn 0 B 4
+turn 1 B 4
